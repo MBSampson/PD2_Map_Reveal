@@ -4,7 +4,7 @@ A custom map reveal tool for Project Diablo 2 (Season 10).
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/4OkOTdvU8qU/maxresdefault.jpg)](https://youtu.be/4OkOTdvU8qU)
+[![Watch the demo](https://img.youtube.com/vi/xG_dpKiZRbE/maxresdefault.jpg)](https://youtu.be/xG_dpKiZRbE)
 
 ## Features
 - **Automatic Reveal**: Instantly reveals the entire map (automap) when entering a new level or game.
